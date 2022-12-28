@@ -26,11 +26,12 @@ The Twitter engine now uses a websocket interface. Part-1 of my project used the
 <ins>**Bonus:**<ins>
 
 **To Generate RSA keys:**
+  
  ```cd project4_ws/_rel/project4_ws_release/```
  ```openssl genrsa -out rsa.pem 2048```
 
 
 ## Report and Demo 
   
-[Report]()  
+[Report](https://github.com/pranath-reddy/COP5615-Twitter-WebSocket/blob/main/Project4%20Part2.pdf)  
 [Demo](https://www.youtube.com/watch?v=U_rz8cT55Z0&ab_channel=PranathReddy)
